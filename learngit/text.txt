@@ -1,0 +1,11 @@
+练习git命令
+git add
+git commit
+git reset --hard HEAD^
+git reset --hard commit_id
+git log
+git log --pretty=oneline
+git reflog 查看命令历史
+git checkout --text.txt 在工作区修改的全部撤销
+git reset HEAD text.txt 从暂存区撤回到工作区
+
